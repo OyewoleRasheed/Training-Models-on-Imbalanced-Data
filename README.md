@@ -1,4 +1,4 @@
-##Training Models on Imbalanced Data 
+## Training Models on Imbalanced Data 
 This project demonstrates how to handle class imbalance in a binary classification problem for insurance claim prediction. It covers exploratory data analysis (EDA), balancing the dataset through oversampling, selecting key features via a Random Forest, training a Random Forest classifier, and evaluating model performance with precision, recall, and F1-score metrics  ([Classification on Imbalanced Data using Python | Aman Kharwal](https://thecleverprogrammer.com/2024/04/01/classification-on-imbalanced-data-using-python/)).
 
 ## Project Description  
